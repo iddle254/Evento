@@ -190,7 +190,7 @@
     <div class="block-bg-clip">
       <div class="block-bg">
         <div class="block-bg-img block-bg-img-top"
-             style="background-image: url(img/joeboy.jpg)">
+             style="background-image: url(img/Joeboy.jpg)">
         </div>
       </div>
     </div>
