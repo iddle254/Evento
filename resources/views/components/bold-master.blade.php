@@ -149,7 +149,7 @@
                 <img src="img/tems.jpg">
                 <div class="card-block pb-5">
                   <h4 class="mb-0">Tems</h4>
-                  <p class="text-serif"><em>Released on Dropp 6 weeks early</em></p>
+                  <p class="text-serif"><em>Released on Drop 6 weeks early</em></p>
                   <hr>
                   <p class="text-serif"><em>Ms. Tems was the first artist to reach out to Evento to coordinate her leak. We knew it was going to be the largest unofficial album drop in history. We doubled server capacity and made a lot ton of coffee.</em></p>
                 </div>
