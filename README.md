@@ -1,4 +1,6 @@
-## Evento [![Build Status](https://app.travis-ci.com/iddle254/sbm-done.svg?branch=main)](https://app.travis-ci.com/iddle254/sbm-done)
+## Evento
+
+<!-- [![Actions Status](https://github.com/iddle254/evento/workflows/{action}/badge.svg)](https://github.com/iddle254/evento//actions) -->
 
 Site for online events booking.
 
