@@ -9,6 +9,7 @@
         "prod": "npm run production",
         "production": "mix --production"
     },
+    "homepage": "https://iddle254.github.io/Evento/",
     "devDependencies": {
         "axios": "^0.21",
         "bootstrap": "^4.6.0",
@@ -20,5 +21,8 @@
         "resolve-url-loader": "^4.0.0",
         "sass": "^1.32.11",
         "sass-loader": "^11.0.1"
+    },
+    "dependencies": {
+        "gh-pages": "^3.2.3"
     }
 }
